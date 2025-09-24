@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![Alt text](/Listicle/Project.gif)
+![Alt text](https://github.com/mpuntus-css/Listicle/blob/main/Project.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
