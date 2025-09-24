@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![Alt text](../Listicle/Listicle/src/Project.gif)
+![Alt text](/Listicle/Project.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
